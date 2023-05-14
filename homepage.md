@@ -1,5 +1,6 @@
 layout: page
 title: "Homepage"
-permalink: https://natedziuba.github.io/
+permalink: 
 
 test
+Test2

@@ -1,2 +1,2 @@
-# NateDziuba.github.io
-TEST
+Welcome!
+This site is a work in progress, check back soon!
